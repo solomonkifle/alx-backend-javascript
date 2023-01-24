@@ -69,7 +69,7 @@ uploadPhoto returns a response with the format
 createUser returns a response with the format
 
 {
-  firstName: 'Guillaume',
-  lastName: 'Salva',
+  firstName: 'Solomon',
+  lastName: 'Tadesse',
 }
 ```
